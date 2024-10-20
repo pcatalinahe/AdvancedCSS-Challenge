@@ -1,0 +1,20 @@
+* {
+    background-color: #ffffff;
+}
+
+table {
+    border: 1px solid black;
+}
+
+.white {
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    /* border: 1px solid  black; */
+}
+
+.black {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
