@@ -1,12 +1,15 @@
-* {
+* { 
+    /* set background color to white */
     background-color: #ffffff;
 }
 
 table {
+    /* outside black solid border of checkerboard */
     border: 1px solid black;
 }
 
 .white {
+    /* style for white div class, 100x100 */
     height: 100px;
     width: 100px;
     background-color: white;
@@ -14,6 +17,7 @@ table {
 }
 
 .black {
+    /* style for black div class, 100x100 */
     height: 100px;
     width: 100px;
     background-color: black;
