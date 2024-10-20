@@ -1,1 +1,1 @@
-Each file contains the respective Week 4 challenge (checkerboard, flag, product grid).
+Each file contains the respective Week 4 challenge (checkerboard, flag, product grid -open in fullscreen).
